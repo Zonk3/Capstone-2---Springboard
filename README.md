@@ -1,4 +1,4 @@
-# Capstone-2---Springboard
+# Capstone-2---Springboard  Predicting Historical Volatility in Stocks
 Contains all relevant files on Predicting Historical Volatility in Stocks project for Springboard Capstone 2
 
 Code -
